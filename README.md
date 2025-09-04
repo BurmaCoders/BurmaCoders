@@ -36,10 +36,10 @@ BurmaCoders is a dedicated collective of top-tier Burmese software developers de
 
 ## 🛠️ Technologies We Love
 
-- JavaScript / TypeScript (React, Next.js, Node.js)
-- Python (Django, FastAPI)
+- JavaScript / TypeScript (Vue, React, Nuxt.js, Node.js)
+- Java
 - PHP (Laravel)
-- Flutter, React Native
+- Flutter
 - AWS, Docker, CI/CD, and more!
 
 *Looking for something specific? Just ask!*
@@ -50,9 +50,8 @@ BurmaCoders is a dedicated collective of top-tier Burmese software developers de
 
 Do you have any current or upcoming projects where a skilled, cost-effective development team could be helpful? Let’s talk!
 
-- 🌐 [Your Website](#)  
-- 💼 [LinkedIn](#)  
-- 📧 [Email Us](mailto:hello@burmacoders.com)
+- 🌐 [Your Website](www.burmacoders.com)  
+- 📧 [Email Us](mailto:info@burmacoders.com)
 
 ---
 
