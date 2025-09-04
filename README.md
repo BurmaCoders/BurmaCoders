@@ -50,7 +50,7 @@ BurmaCoders is a dedicated collective of top-tier Burmese software developers de
 
 Do you have any current or upcoming projects where a skilled, cost-effective development team could be helpful? Let’s talk!
 
-- 🌐 [Your Website](www.burmacoders.com)  
+- 🌐 [Your Website](https://www.burmacoders.com)  
 - 📧 [Email Us](mailto:info@burmacoders.com)
 
 ---
